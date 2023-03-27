@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "HM3301I2C", "HM3301I2C\HM3301I2C.nfproj", "{C4869C5A-E8BE-4E4D-BA91-A4AB8FED333B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4869C5A-E8BE-4E4D-BA91-A4AB8FED333B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4869C5A-E8BE-4E4D-BA91-A4AB8FED333B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4869C5A-E8BE-4E4D-BA91-A4AB8FED333B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C4869C5A-E8BE-4E4D-BA91-A4AB8FED333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4869C5A-E8BE-4E4D-BA91-A4AB8FED333B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4869C5A-E8BE-4E4D-BA91-A4AB8FED333B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {501BD0AC-C012-4B9D-BDA5-8FFC1896B85F}
+	EndGlobalSection
+EndGlobal
