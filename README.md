@@ -6,7 +6,7 @@ A C# library for [Seeedstudio Grove-Laser PM2.5 Dust Sensor HM3301](https://www.
 This repository has the source code for the series of blog posts written as I worked on the library
 
 01. [HM3301 Basic connectivity](http://blog.devmobile.co.nz/2023/03/28/net-nanoframework-seeedstudio-hm3301-basic-connectivity/)
-02. [HM3301 library on Github](net-nanoframework-seeedstudio-hm3301-library-on-github)
+02. [HM3301 library on Github](http://blog.devmobile.co.nz/2023/04/19/net-nanoframework-seeedstudio-hm3301-library-on-github/)
 
 ![STM32F769 Based test harness](STM32F769HM3301.jpg)
 
